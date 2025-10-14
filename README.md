@@ -1,9 +1,22 @@
 # 💫 About Me:
-👋 Hi, I’m João Filipe Silva<br><br>💻 Cybersecurity Developer | Ethical Hacker | Oracle SQL<br><br>🔐 I’m passionate about programming, automation, and system protection.<br>🐍 Experienced in Python, ⚙️ Bash, 💠 PowerShell, and 🧩 Oracle databases.<br>💜 I love creating tools and scripts to enhance network and application security.<br>🛠️ My work focuses on automation, vulnerability assessment, and secure software development, combining creativity with technical precision.<br>🚀 Here you’ll find some of my projects, experiments, and learning progress in ethical hacking and cyber defense.
+👋 Hi, I’m **João Filipe Silva**  
+💻 *Cybersecurity Developer | Ethical Hacker | Oracle SQL*  
 
+🔐 I’m passionate about **programming, automation, and system protection.**  
+🐍 Experienced in **Python**, ⚙️ **Bash**, 💠 **PowerShell**, and 🧩 **Oracle databases.**  
+💜 I love creating tools and scripts to enhance **network and application security.**  
+🛠️ My work focuses on **automation, vulnerability assessment**, and **secure software development**, combining **creativity** with **technical precision.**  
+🚀 Here you’ll find some of my **projects, experiments, and learning progress** in **ethical hacking** and **cyber defense.**  
+🌍 Always curious about **new technologies and challenges in cybersecurity.**
+
+---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.joaof_swty_cyber._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaofilipesilvawty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaofilipesilvawty.work@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaofilipesilvawty)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.joaof_swty_cyber._)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaofilipesilvawty.work@gmail.com)
+
+---
 
 ### 🧰 Tech Stack
 
@@ -30,22 +43,33 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joaofilipesilvawty&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=joaofilipesilvawty&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofilipesilvawty&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=joaofilipesilvawty&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=joaofilipesilvawty&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=joaofilipesilvawty&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/_.joaof_swty_cyber._) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Support%20My%20Work-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/_.joaof_swty_cyber._)
+
+---
+
+💬 *Created with passion for cybersecurity and development.*
