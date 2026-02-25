@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m **João Filipe Silva**  
-💻 *Cybersecurity Developer | Ethical Hacker | Oracle SQL*  
+💻 *Cybersecurity Developer | Ethical Hacker | Purple Team | Oracle SQL*  
 
 🔐 I’m passionate about **programming, automation, and system protection.**  
 🐍 Experienced in **Python**, ⚙️ **Bash**, 💠 **PowerShell**, and 🧩 **Oracle databases.**  
